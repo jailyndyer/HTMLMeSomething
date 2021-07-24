@@ -1,0 +1,45 @@
+html {
+	 background-color: #FEFDED;
+}
+
+body {
+	margin-top: 8px;
+	display: block;
+}
+
+#mainHeading {
+	font-family: Arial, Helvetica, sans-serif;
+	color: red;
+	margin-top: 10px;
+	margin-bottom: 50px;
+	margin-right: 150px;
+	margin-left: 300px;
+}
+
+.p2 {
+	font-family: Arial, Helvetica, sans-serif;
+	max-width: 1200px;	
+	margin-top: 10px;
+	margin-bottom: 10px;
+	margin-right: 150px;
+	margin-left: 10px;
+}
+
+.p3 {
+	font-family: "Lucida Handwriting", "Courier New", monospace;
+	font-size: 20px;
+	max-width: 1800px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	margin-right: 150px;
+	margin-left: 10px;
+}
+
+.funParagraph {
+	color: green;	
+}
+
+#testP {
+	font-family: "Lucida Handwriting", "Courier New", monospace;
+	font-size: 12px;
+}
